@@ -1,2 +1,2 @@
 # bootstrap_components
-practice day 12
+https://emamulhassan.github.io/bootstrap_components/
